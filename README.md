@@ -1,10 +1,27 @@
 
 
- Practica 04.01 fecha 14/4
- 
+ # Práctica: 04.01 Complejidad Proyecto  JAVA 
 
- Creamos el proyecto
+## Datos del Estudiante
+- **Nombre:** [Jordan Sagbay ]
+- **Curso:** [grupo 3 ]
+- **Fecha:** [14/04/2026]
 
-Practica 04.01 fecha 15/4
+---
 
-acabamos 5 clases de java 
+## 1. icc-est-u4-complejidad
+![Descripción de la captura](assets/imagemm.png)
+
+**Fecha:** 14/04/2026
+
+**Descripción:** Creamos el proyecto y lo subimos 
+
+---
+
+## 2. icc-est-u4-complejidad
+![Descripción de la captura](assets/image.png)
+**Fecha:** 15/04/2026
+**Descripción:** Creamos la clase Estudiantes y Generadores y creamos un listado de estudiantes con datos aleatorios para buscar un estudinte.
+
+---
+
